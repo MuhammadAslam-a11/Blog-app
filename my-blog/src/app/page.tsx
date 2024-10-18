@@ -5,7 +5,7 @@ import Banner from '../components/Banner'
 import Post from '../components/Post'
 import Footer from '../components/Footer'
 import { posts } from '../data/posts'
-
+//import CategorySection from '../components/Categorious';
 export default function Home() {
   return (
     <div>
